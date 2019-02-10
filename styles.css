@@ -1,0 +1,82 @@
+body {
+	margin: 0;
+	background-color: #7E8D85;
+}
+
+#title_bar {
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 70px;
+	font-weight: bold;
+	padding: 20px;
+	top: 0;
+	width: 100%;
+	z-index: 5;
+	background-color: #003351;
+	color: #A2E3C4;
+}
+
+#profile_pic {
+	border-radius: 50%;
+	height: 200px;
+	width: 200px;
+}
+
+#name {
+	padding-bottom: 5px;
+}
+
+#grad {
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 25px;
+	padding: 10px 150px;
+}
+
+.header {
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.contain {
+	text-align: center;
+	padding-top: 30px;
+}
+
+.card {
+	display: inline-block;
+	padding: 20px 0;
+	background-color: #F0F7F4;
+	width: 650px;
+	border-radius: 10px;
+	box-shadow: 12px 12px 16px 0 rgba(0,0,0,0.24);
+	color: black;
+}
+
+.body_content {
+	font-family: 'Roboto', sans-serif;
+	font-size: 25px;
+}
+
+.section {
+	padding: 20px 0;
+}
+
+.subheader {
+	text-align: center;
+}
+
+.column {
+	float: left;
+	width: 50%;
+	font-size: 20px;
+	padding: 20px 0;
+}
+
+.column_list {
+	margin: 0;
+	padding-left: 35%;
+	text-align: left;
+}
